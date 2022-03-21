@@ -11,7 +11,7 @@ namespace ConsoleApp6
             bool bandera;
             String letra;
             string [] text = System.IO.File.ReadAllLines(@"C:\Users\Freddy\Desktop\prueba.txt");
-            Console.WriteLine("Letra a verificasr la cantidad: ");
+            Console.WriteLine("Letra a verificasrantidad: ");
             letra = Console.ReadLine();
             for (int i = 0; i < text.Length; i++)
             {
