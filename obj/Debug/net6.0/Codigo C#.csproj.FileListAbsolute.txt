@@ -1,0 +1,15 @@
+C:\Users\Frolo\Documents\Codigo C#\bin\Debug\net6.0\Codigo C#.exe
+C:\Users\Frolo\Documents\Codigo C#\bin\Debug\net6.0\Codigo C#.deps.json
+C:\Users\Frolo\Documents\Codigo C#\bin\Debug\net6.0\Codigo C#.runtimeconfig.json
+C:\Users\Frolo\Documents\Codigo C#\bin\Debug\net6.0\Codigo C#.dll
+C:\Users\Frolo\Documents\Codigo C#\bin\Debug\net6.0\Codigo C#.pdb
+C:\Users\Frolo\Documents\Codigo C#\obj\Debug\net6.0\Codigo C#.csproj.AssemblyReference.cache
+C:\Users\Frolo\Documents\Codigo C#\obj\Debug\net6.0\Codigo C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Frolo\Documents\Codigo C#\obj\Debug\net6.0\Codigo C#.AssemblyInfoInputs.cache
+C:\Users\Frolo\Documents\Codigo C#\obj\Debug\net6.0\Codigo C#.AssemblyInfo.cs
+C:\Users\Frolo\Documents\Codigo C#\obj\Debug\net6.0\Codigo C#.csproj.CoreCompileInputs.cache
+C:\Users\Frolo\Documents\Codigo C#\obj\Debug\net6.0\Codigo C#.dll
+C:\Users\Frolo\Documents\Codigo C#\obj\Debug\net6.0\refint\Codigo C#.dll
+C:\Users\Frolo\Documents\Codigo C#\obj\Debug\net6.0\Codigo C#.pdb
+C:\Users\Frolo\Documents\Codigo C#\obj\Debug\net6.0\Codigo C#.genruntimeconfig.cache
+C:\Users\Frolo\Documents\Codigo C#\obj\Debug\net6.0\ref\Codigo C#.dll
